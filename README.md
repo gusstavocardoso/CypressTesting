@@ -1,3 +1,3 @@
-# CypressTesting
+## CypressTesting
 
-#### Repositório para estudos do Framework de automação de teste Cypress
+Repositório para estudos do Framework de automação de teste Cypress
